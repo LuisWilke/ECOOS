@@ -1,0 +1,11 @@
+{
+  "name": "ecoos",
+  "version": "1.0.0",
+  "description": "Painel de controle para ordem de serviço dentro do eco",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
